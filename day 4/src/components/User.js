@@ -30,10 +30,10 @@ export const User = ({name, fun}) => {
         <>
          <h1>User Is Here</h1>
             <div className="d3">
-            {/* <h3>Life  - {age}</h3>
+            {<h3>Life  - {age}</h3>
             <button onClick={increment} className="b1">Increment</button>
             <button onClick={decrement} className="b2">Decrement</button>
-            <button onClick={mul} className="b2">Multiply</button> */}
+            <button onClick={mul} className="b2">Multiply</button>}
             </div>
         </>
 
